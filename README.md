@@ -54,6 +54,6 @@ This project is developed by a team of students in 2 month as part of a practica
 | 🧹 Data Cleaning     | Pandas, NumPy |
 | 🧠 Deep Learning     | TensorFlow / Keras (Autoencoder, Compatibility Model) |
 | 🧠 Compatibility     | Rule-Based + Neural Collaborative Filtering |
-| 🗄 Database          | CSV + SQLite (optional) |
+| 🗄 Database          | CSV + SQL |
 | 🌐 Collaboration     | Google Colab, GitHub, Notion |
 
