@@ -23,9 +23,9 @@ This project is developed by a team of students in 2 month as part of a practica
 |------------|------------------------------------|
 | 👨‍💻 **Dhahbi Mohamed** | Team Lead, Data Scientist(learner)|
 | 👨‍💻 **Bouthayna Hamdi** |ML Enginner (learner)|
-| 👩‍💻 **Sami Abdelhafidh** | UI/UX Designer, Back-end Devolleper|
-| 👨‍💻 **Ebtihel Benchaaben** | Data Cleaner & Database Manager |
-| 👨‍💻 **Koussay Awachri** | Web Structure Researcher, Data Prep |
+| 👩‍💻 **Sami Abdelhafidh** | UI/UX Designer, Back-end Dev|
+| 👨‍💻 **Ebtihel Benchaaben** | Web & Python Dev, Database Manager|
+| 👨‍💻 **Koussay Awachri** |  Front-end & Python Dev, Data Prep |
 
 
 
