@@ -26,7 +26,10 @@ This project is developed by a team of students in 2 month as part of a practica
 | 👩‍💻 **Sami Abdelhafidh** | UI/UX Designer, Back-end Devolleper|
 | 👨‍💻 **Ebtihel Benchaaben** | Data Cleaner & Database Manager |
 | 👨‍💻 **Koussay Awachri** | Web Structure Researcher, Data Prep |
-**important_team_note:**|
+
+
+
+**important_team_note:**
   ⚠️ Even though each member has specific tasks, our main objective is that 
   everyone learns AI and understands every stage of the project. 
 
