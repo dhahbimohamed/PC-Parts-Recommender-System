@@ -1,0 +1,25 @@
+# Core Python Libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# Data Scraping
+requests
+beautifulsoup4
+lxml
+
+# Notebook environment
+jupyter
+notebook
+
+# Data visualization
+seaborn
+plotly
+
+# Utility
+tqdm
