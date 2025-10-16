@@ -1,0 +1,46 @@
+Name,Description,Price,URL,Capacity (GB),Modules,Type,Frequency (MHz),CAS Latency,RGB
+Fox Spirit Akura RGB 16 Go (2x 8 Go) DDR4 3200 MHz CL16,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-25600 - FXU8G1M3200C16X2,84€95,https://www.ldlc.com/fiche/PB00458456.html,16,2,DDR4,3200,16,Yes
+Fox Spirit Akura RGB 32 Go (2x 16 Go) DDR4 3200 MHz CL16,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-25600 - FXU16G2M3200C16X2,154€95,https://www.ldlc.com/fiche/PB00458458.html,32,2,DDR4,3200,16,Yes
+Textorm 16 Go (2x 8 Go) DDR4 2666 MHz CL19,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-21300 - 2XTXU8G1M2666C1,71€95,https://www.ldlc.com/fiche/PB00392933.html,16,2,DDR4,2666,19,No
+Textorm 16 Go (2x 8 Go) DDR4 3200 MHz CL16,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-25600 - 2XTXU8G1M3200C,64€95,https://www.ldlc.com/fiche/PB00392932.html,16,2,DDR4,3200,16,No
+Textorm 16 Go DDR4 2666 MHz CL19,RAM DDR4 PC4-21300 - TXU16G2M2666C19,69€95,https://www.ldlc.com/fiche/PB00392692.html,16,1,DDR4,2666,19,No
+Textorm 16 Go DDR4 3200 MHz CL16,RAM DDR4 PC4-25600 - TXU16G2M3200C16X,64€95,https://www.ldlc.com/fiche/PB00392685.html,16,1,DDR4,3200,16,No
+Textorm 32 Go (2x 16 Go) DDR4 2666 MHz CL19,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-21300 - 2XTXU16G2M266,129€95,https://www.ldlc.com/fiche/PB00392939.html,32,2,DDR4,2666,19,No
+Textorm 32 Go (2x 16 Go) DDR4 3200 MHz CL16,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-25600 - 2XTXU16G2M320,119€95,https://www.ldlc.com/fiche/PB00392938.html,32,2,DDR4,3200,16,No
+Textorm 32 Go (2x 16 Go) DDR5 6000 MHz CL36,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - TXU16G1S60C36K2,149€95,https://www.ldlc.com/fiche/PB00631749.html,32,2,DDR5,6000,36,No
+Textorm 32 Go (2x 16 Go) DDR5 6400 MHz CL32,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-51200 - TXU16G2H64C32K2,194€95,https://www.ldlc.com/fiche/PB00657047.html,32,2,DDR5,6400,32,No
+Textorm 32 Go (4x 8 Go) DDR4 2666 MHz CL19,Kit Quad Channel 4 barrettes deRAM DDR4 PC4-21300 - 4XTXU8G1M2666C1,134€95,https://www.ldlc.com/fiche/PB00392934.html,32,4,DDR4,2666,19,No
+Textorm 32 Go (4x 8 Go) DDR4 3200 MHz CL16,Kit Quad Channel 4 barrettes de RAM DDR4 PC4-25600 - 4XTXU8G1M3200C,122€95,https://www.ldlc.com/fiche/PB00392935.html,32,4,DDR4,3200,16,No
+Textorm 32 Go DDR4 3200 MHz CL16,RAM DDR4 PC4-25600 - TXU32G2M3200C16X,119€95,https://www.ldlc.com/fiche/PB00476012.html,32,1,DDR4,3200,16,No
+Textorm 64 Go (2x 32 Go) DDR4 3200 MHz CL16,RAM DDR4 PC4-25600 - TXU32G2M3200C16X,119€95,https://www.ldlc.com/fiche/PB00630477.html,64,2,DDR4,3200,16,No
+Textorm 64 Go (2x 32 Go) DDR5 6000 MHz CL36,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - TXU32G2M60C36K2,299€95,https://www.ldlc.com/fiche/PB00657046.html,64,2,DDR5,6000,36,No
+Textorm 64 Go (4x 16 Go) DDR4 2666 MHz CL19,Kit Quad Channel 4 barrettes deRAM DDR4 PC4-21300 - 4XTXU16G2M266,259€94,https://www.ldlc.com/fiche/PB00392940.html,64,4,DDR4,2666,19,No
+Textorm 64 Go (4x 16 Go) DDR4 3200 MHz CL16,Kit Quad Channel 4 barrettes de RAM DDR4 PC4-25600 - 4XTXU16G2M320,239€95,https://www.ldlc.com/fiche/PB00392936.html,64,4,DDR4,3200,16,No
+Textorm 8 Go DDR4 2666 MHz CL19,RAM DDR4 PC4-21300 - TXU8G1M2666C19,39€95,https://www.ldlc.com/fiche/PB00392604.html,8,1,DDR4,2666,19,No
+Textorm 8 Go DDR4 3200 MHz CL16,RAM DDR4 PC4-25600 - TXU8G1M3200C16X,33€95,https://www.ldlc.com/fiche/PB00392667.html,8,1,DDR4,3200,16,No
+Textorm SO-DIMM 16 Go (2x 8 Go) DDR4 2666 MHz CL19,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-21300 - 2XTXS8G1M2666C19,79€95,https://www.ldlc.com/fiche/PB00392944.html,16,2,DDR4,2666,19,No
+Textorm SO-DIMM 16 Go DDR4 2666 MHz CL19,RAM DDR4 PC4-21300 - TXS16G2M2666C19,74€95,https://www.ldlc.com/fiche/PB00392700.html,16,1,DDR4,2666,19,No
+Textorm SO-DIMM 16 Go DDR4 3200 MHz CL22,RAM DDR4 PC4-25600 - TXS16G2M3200C22,69€95,https://www.ldlc.com/fiche/PB00426643.html,16,1,DDR4,3200,22,No
+Textorm SO-DIMM 32 Go (2x 16 Go) DDR4 2666 MHz CL19,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-21300 - 2XTXS16G2M2666C19,139€94,https://www.ldlc.com/fiche/PB00392945.html,32,2,DDR4,2666,19,No
+Textorm SO-DIMM 32 Go (2x 16 Go) DDR4 3200 MHz CL22,RAM DDR4 PC4-25600 - TXS16G2M3200C22,119€95,https://www.ldlc.com/fiche/PB00630478.html,32,2,DDR4,3200,22,No
+Textorm SO-DIMM 32 Go DDR4 3200 MHz CL22,RAM DDR4 PC4-25600 - TXS32G2M3200C22,144€95,https://www.ldlc.com/fiche/PB00485007.html,32,1,DDR4,3200,22,No
+Textorm SO-DIMM 8 Go DDR4 2666 MHz CL19,RAM DDR4 PC4-21300 - TXS8G1M2666C19,42€95,https://www.ldlc.com/fiche/PB00392699.html,8,1,DDR4,2666,19,No
+Textorm SO-DIMM 8 Go DDR4 3200 MHz CL22,RAM DDR4 PC4-25600 - TXS8G1M3200C22,42€95,https://www.ldlc.com/fiche/PB00426641.html,8,1,DDR4,3200,22,No
+Corsair Dominator Platinum DDR5 RGB 32 Go (2 x 16 Go) 6000 MHz CL30 Gris,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - CMT32GX5M2B6000Z30K - Optimisé pour AMD,279€95,https://www.ldlc.com/fiche/PB00553438.html,32,2,DDR5,6000,30,Yes
+Corsair Dominator Platinum DDR5 RGB 32 Go (2 x 16 Go) 6000 MHz CL36 (CMT32GX5M2E6000C36),Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - CMT32GX5M2E6000C36,222€95,https://www.ldlc.com/fiche/PB00548197.html,32,2,DDR5,6000,36,Yes
+Corsair Dominator Platinum DDR5 RGB 32 Go (2 x 16 Go) 6200 MHz CL36 (CMT32GX5M2E6200C36),Kit Dual Channel 2 barrettes de RAM DDR5 PC5-49600 - CMT32GX5M2E6200C36,258€95,https://www.ldlc.com/fiche/PB00548199.html,32,2,DDR5,6200,36,Yes
+Corsair Dominator Platinum DDR5 RGB 32 Go (2 x 16 Go) 7200 MHz CL34,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-57600 - CMT32GX5M2X7200C34,328€95,https://www.ldlc.com/fiche/PB00553442.html,32,2,DDR5,7200,34,Yes
+Corsair Dominator Platinum DDR5 RGB 64 Go (2 x 32 Go) 6000 MHz CL30,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - CMT64GX5M2B6000C30,489€95,https://www.ldlc.com/fiche/PB00555089.html,64,2,DDR5,6000,30,Yes
+Corsair Dominator Platinum DDR5 RGB 64 Go (2 x 32 Go) 6000 MHz CL30 Noir/Gris,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - CMT64GX5M2B6000Z30 - Optimisé pour AMD,489€95,https://www.ldlc.com/fiche/PB00556064.html,64,2,DDR5,6000,30,Yes
+Corsair Dominator Platinum DDR5 RGB 64 Go (2 x 32 Go) 6400 MHz CL32,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-51200 - CMT64GX5M2B6400C32,493€95,https://www.ldlc.com/fiche/PB00549958.html,64,2,DDR5,6400,32,Yes
+Corsair Dominator Platinum DDR5 RGB 64 Go (2 x 32 Go) 6600 MHz CL32,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-52800 - CMT64GX5M2B6600C32,485€95,https://www.ldlc.com/fiche/PB00549959.html,64,2,DDR5,6600,32,Yes
+Corsair Dominator Platinum DDR5 RGB 64 Go (2 x 32 Go) 6800 MHz CL40,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-544000 - CMT64GX5M2B6800C40,507€95,https://www.ldlc.com/fiche/PB00556063.html,64,2,DDR5,6800,40,Yes
+Corsair Dominator Platinum RGB 32 Go (2 x 16 Go) DDR4 3200 MHz CL16,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-25600 - CMT32GX4M2E3200C16,223€95,https://www.ldlc.com/fiche/PB00426415.html,32,2,DDR4,3200,16,Yes
+Corsair Dominator Platinum RGB 32 Go (2 x 16 Go) DDR4 3600 MHz CL18 - Blanc,Kit Dual Channel 2 barrettes de RAM DDR4 PC4-28800 - CMT32GX4M2D3600C18W,277€65,https://www.ldlc.com/fiche/PB00504623.html,32,2,DDR4,3600,18,Yes
+Corsair Dominator Titanium DDR5 - Kit d'éclairage Blanc,Kit de 2 barrettes d'éclairage format RAM DDR5 - blanc,88€95,https://www.ldlc.com/fiche/PB00647887.html,,1,DDR5,,,No
+Corsair Dominator Titanium DDR5 - Kit d'éclairage Gris,Kit de 2 barrettes d'éclairage format RAM DDR5 - Gris,86€95,https://www.ldlc.com/fiche/PB00647889.html,,1,DDR5,,,No
+Corsair Dominator Titanium DDR5 - Kit d'éclairage Noir,Kit de 2 barrettes d'éclairage format RAM DDR5 - Noir,85€95,https://www.ldlc.com/fiche/PB00647888.html,,1,DDR5,,,No
+Corsair Dominator Titanium DDR5 RGB 32 Go (2 x 16 Go) 6000 MHz CL30 - Blanc,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - CMP32GX5M2B6000C30W,298€95,https://www.ldlc.com/fiche/PB00572311.html,32,2,DDR5,6000,30,Yes
+Corsair Dominator Titanium DDR5 RGB 32 Go (2 x 16 Go) 6000 MHz CL30 - Gris,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - CMP32GX5M2B6000Z30 - Optimisé pour AMD,289€95,https://www.ldlc.com/fiche/PB00572335.html,32,2,DDR5,6000,30,Yes
+Corsair Dominator Titanium DDR5 RGB 32 Go (2 x 16 Go) 6000 MHz CL30 - Noir,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-48000 - CMP32GX5M2B6000C30,289€95,https://www.ldlc.com/fiche/PB00572310.html,32,2,DDR5,6000,30,Yes
+Corsair Dominator Titanium DDR5 RGB 32 Go (2 x 16 Go) 6400 MHz CL32 - Blanc,Kit Dual Channel 2 barrettes de RAM DDR5 PC5-51200 - CMP32GX5M2B6400C32W,316€95,https://www.ldlc.com/fiche/PB00572326.html,32,2,DDR5,6400,32,Yes
