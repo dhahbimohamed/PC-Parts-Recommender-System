@@ -2,9 +2,7 @@
 A Deep Learning Based System to Recommend Similar & Compatible PC Components
 
 ## 🚀 Live App
-**[Click here to use the PC Parts Optimizer App]([https://pc-parts-optimizer.streamlit.app/](https://pc-parts-recommender-system-tdaospubat8wvdvk4jb7cs.streamlit.app))**
-
-*(Replace the above link with your actual Streamlit Cloud deployment link)*
+**[Click here to use the PC Parts Optimizer App](https://pc-parts-recommender-system-tdaospubat8wvdvk4jb7cs.streamlit.app)**
 
 ---
 
