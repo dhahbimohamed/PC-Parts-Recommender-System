@@ -1,4 +1,4 @@
-# 🧠💻 PC Parts Recommender System
+# 🧠💻 ProcTech-Intelligent-Component-Search
 A Deep Learning Based System to Recommend Similar & Compatible PC Components
 
 ## 🚀 Live App
