@@ -54,4 +54,3 @@ Tasks are managed using Notion, development happens in Google Colab, and version
 | ☁️ Deployment | Streamlit Cloud, GitHub |
 | 🤝 Collaboration | Google Colab, GitHub, Notion |
 
-## 📁 Project Structure
